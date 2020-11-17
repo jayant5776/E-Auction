@@ -1,0 +1,43 @@
+
+Scope of Project
+	The problem with public auction is that the participation of the general public is very limited. 
+	The aim of the project is to socialize the auction so that people from far & wide and even across the continent can participate in it. 
+	1.	Paperless Auction System
+	2.	It's accessible to everyone, at any time no matter where they are
+	3.	Reliable user validation & checking.
+	4.	Easy online settlement.
+	5.	The system uses HTTP forms authentication which creates a session cookie for any signed in user. Through out the span of the session the cookie remains valid until the user logs out.
+
+	
+Implementation's : 
+	1.	 Secure Hash Algorithm (SHA) for authentication, and Data Encryption Standard (DES)
+		 - we provide data encryption for bidding amount of buyer and customer.
+
+	2.	- This link opens to the administration module which is open to web administrator only. 
+		  Here site administrator can add product categories and can edit product information like closing date. 
+		  Also there is an option for administering the closed bids. 
+		  Admin don't have any rights regarding bidding amount and buyer and seller details.
+
+	3.	- only Base price is visible to customers. . The person with the highest bid is the winner of the auction.
+
+Models :
+	
+	1. WebAdmin
+
+	2. Buyer Module
+
+	3. Seller Module
+
+	4. Reports Module
+
+
+Hardware & software requirements :
+
+	Operating System			: Windows
+	Algorithm for Encryption of Data	: Secure Hash Algorithm (SHA) for authentication, and Data Encryption Standard (DES)
+ 	Technology  				: Core java, Adv. Java (JDBC, Servlets, JSP)
+ 	Web Technologies			: Html, JavaScript, CSS, Angular.
+ 	IDE					: My Eclipse
+ 	Web Server				: Tomcat
+ 	Database				: MYSQL
+ 	Software’s				: Eclipse
