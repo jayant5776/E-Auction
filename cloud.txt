@@ -1,0 +1,56 @@
+       # Reasons cloud computing is treading nowsdays #
+
+
+
+* Cost Saving - 
+  By using cloud infrastructure, we don't have to spend huge amounts of money on purchasing and maintaing equipment.
+This drastically reduces costs. we don’t have to invest in hardware, facilities, utilities, or building out
+a large data center to grow our business. we do not even need large IT teams to handle our cloud data center
+operations, as we can enjoy the expertise of our cloud provider’s staff.
+Cloud also reduces costs related to downtime. Since downtime is rare in cloud systems, this means 
+we don't have to spend time and money on fixing potential issues related to downtime 
+
+* Data security -
+Cloud offers many advanced security features that guarantee that data is securely stored and handled.
+Cloud storage providers implement baseline protections for their platforms and the data they process, 
+such authentication, access control, and encryption. From there, most enterprises supplement these protections 
+with added security measures of their own to bolster cloud data protection and tighten access to sensitive information in the cloud.  
+
+*  Scalability -
+Different companies have different IT needs -- a large enterprise of 1000+ employees won't have the same 
+IT requirements as a start-up.Using cloud is a great solution because it enables enterprise to efficiently --
+ and quickly -- scale up/down their IT departments, according to business demands.
+
+Cloud based solutions are ideal for businesses with growing or fluctuating bandwidth demands.
+ If our business demands increase, we can easily increase our cloud capacity without having to 
+invest in physical infrastructure. This level of agility can give businesses using cloud computing a real advantage over competitors.
+
+This scalability minimizes the risks associated with in-house operational issues and maintenance. 
+we have high-performance resources at our disposal with professional solutions and zero up-front investment.
+ Scalability is probably the greatest advantage of the cloud.      
+
+*   Mobility -
+Cloud computing allows mobile access to corporate data via smartphones and devices, which is a great way to ensure
+ that no one is ever left out of the loop. Staff with busy schedules, or who live a long way away from the corporate office,
+ can use this feature to keep instantly up-to-date with clients and coworkers.
+
+Resources in the cloud can be easily stored, retrieved, recovered, or processed with just a couple of clicks.
+ Users can get access to their works on-the-go, 24/7, via any devices of their choice, in any corner of the world
+ as long as you stay connected to the internet. On top of that, all the upgrades and updates are done automatically,
+ off-sight by the service providers. This saves time and team effort in maintaining the systems, tremendously reducing the IT team workloads.  
+
+* Control -
+Having control over sensitive data is vital to any company. we never know what can happen if a document gets into 
+the wrong hands, even if it’s just the hands of an untrained employee.
+
+Cloud enables us complete visibility and control over our data. we can easily decide which users have what level 
+of access to what data. This gives you control, but it also streamlines work since staff will easily know what documents
+ are assigned to them. It will also increase and ease collaboration. Since one version of the document can be worked on 
+by different people, and there's no need to have copies of the same document in circulation.
+
+* Competitive edge -
+Not every company will migrate to the cloud, at least not yet. However, organizations which adopt cloud find that many
+ benefits that cloud offers positively impacts their business .
+
+Cloud adoption increases every year, since companies realize that it offers them access to world-class enterprise technology.
+ And, if you implement a cloud solution now, you'll be ahead of your competitors.             
